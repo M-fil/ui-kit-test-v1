@@ -1,0 +1,26 @@
+{
+  "name": "@m-fil/ui-kit-test-v1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/m-fil"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "files": [
+    "./src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-fil/ui-kit-test-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-fil/ui-kit-test-v1/issues"
+  },
+  "homepage": "https://github.com/M-fil/ui-kit-test-v1#readme"
+}
